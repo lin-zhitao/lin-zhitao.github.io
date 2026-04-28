@@ -23,49 +23,167 @@
       }
     ],
     "contact": {
-      "email": "hello@example.com",
+      "email": "lin_zhitao@berkeley.edu",
       "youtube": "YouTube",
       "facebook": "Facebook",
       "instagram": "Instagram"
     }
   },
   "research": {
-    "headline": "Composer and new media artist working through sound, computation, and cultural memory.",
+    "headline": "Art is not expression, but convergence.",
     "paragraphs": [
-      "My current research explores algorithmic composition, spectral listening, and the trace of gesture through live media systems.",
-      "I investigate how sonic memory becomes interface, how performance becomes archive, and how computational processes can embody cultural thought."
+      "My research examines how body, sound, and image are captured, compressed, and reorganized within technological systems.",
+      "I understand art not as direct expression, but as a process of convergence: unstable gestures, desires, and sensory traces enter a system, where they are translated into sound, image, and form.",
+      "In my work, sound often appears as the result of convergence, while image remains closer to an unfinished state—revealing the noise, error, and instability that optimization usually hides."
     ],
     "tags": [
-      "Algorithmic Composition",
-      "Embodied Interaction",
-      "Audiovisual Systems"
+      "Convergence",
+      "Embodied Input",
+      "Algorithmic Aesthetics"
     ],
     "notes": [
       {
-        "title": "Sound As System",
-        "body": "Composition as a set of relations between spectral material, computation, and performative decision."
+        "title": "Body As Input",
+        "body": "Gesture is treated not as direct expression, but as unstable data entering a technological system."
       },
       {
-        "title": "Body As Interface",
-        "body": "Gesture is treated as musical thought in motion, translated into sound and image through live systems."
+        "title": "System As Convergence",
+        "body": "The system processes difference, error, and desire, compressing them into relations that can be sensed as form."
       },
       {
-        "title": "Memory As Form",
-        "body": "Cultural memory appears as resonance, trace, and transformation rather than direct representation."
+        "title": "Form As Emergence",
+        "body": "What appears as form is not a final beauty, but a temporary convergence where instability briefly becomes legible."
       }
     ]
   },
   "projects": [
     {
+      "id": "liminal",
       "title": "Liminal",
       "year": "2025",
-      "medium": "AI-driven audiovisual installation",
-      "description": "Gesture/body-driven AI system fusing Chinese aesthetics with real-time sound and image generation.",
+      "form": "AI-driven interactive audiovisual installation",
+      "medium": "Computer vision, generative visuals, real-time sound, projection",
+      "image": "assets/work-liminal-film.jpg",
+      "description": [
+        "Liminal is an AI-driven interactive audiovisual installation that transforms audience movement into real-time sound and image.",
+        "The work investigates a human–AI interaction space between control and autonomy. Rather than using explicit gesture-to-output mapping, participant movement functions as contextual information within a system that maintains its own temporal continuity. Sound and image emerge through gradual modulation, accumulation, and negotiation over time.",
+        "Drawing from Raden（螺钿） craftsmanship, Chinese ink-wash painting, and Tao Yuanming's Peach Blossom Spring, Liminal explores a space between tradition and computation, spectator and co-creator, human intention and machine process."
+      ],
       "presentations": [
-        "April 2025 — 2025 Digi Muse Music and Technology Festival, Shanghai Concert Hall, Shanghai",
-        "June 2025 — International Computer Music Conference (ICMC), Emerson College Media Art Gallery, Boston",
+        "March 2026 — IRCAM Forum Workshops, IRCAM & Centre des Arts (CDA), Paris / Enghien-les-Bains",
         "December 2025 — SIGGRAPH Asia Real-Time Live, Hong Kong Convention and Exhibition Centre (HKCEC), Hong Kong",
-        "March 2026 — IRCAM Forum Workshops, IRCAM & Centre des Arts (CDA), Paris / Enghien-les-Bains"
+        "June 2025 — International Computer Music Conference (ICMC), Emerson College Media Art Gallery, Boston",
+        "April 2025 — Digi Muse Music and Technology Festival, Shanghai Concert Hall, Shanghai"
+      ],
+      "credits": [
+        "Concept, sound, and interaction: Zhitao Lin",
+        "Project planning: Na Xing"
+      ],
+      "system": [
+        "Computer vision–based gesture analysis",
+        "Probabilistic decision layer",
+        "Temporal memory and decay mechanisms",
+        "Max/MSP generative sound environment",
+        "AI-driven visual synthesis",
+        "Multichannel spatial sound",
+        "Projection-based visual environment"
+      ],
+      "photoCredit": [
+        "Images courtesy of SIGGRAPH Asia 2025."
+      ]
+    },
+    {
+      "id": "ear-on-the-edge-of-the-eye",
+      "title": "Ear on the Edge of the Eye",
+      "year": "2025",
+      "form": "Interactive sound installation",
+      "medium": "Spatial movement tracking, AI-generated music, sculptural installation",
+      "image": "assets/work-ear-on-the-edge-of-the-eye-film.jpg",
+      "description": [
+        "Ear on the Edge of the Eye extends the real-time AI generative system first introduced in Liminal, transforming spatial movement into a musical act.",
+        "Centered around Winter Hart's tornado-inspired sculpture, the installation invites audiences to step inside an evolving sonic field where music is continuously born from presence and motion.",
+        "As the audience moves through space, the AI system interprets position and movement to generate two distinct musical environments: the outer region evokes the spectral turbulence of a storm, while the central area unfolds into a state of calm and balance — the stillness within motion.",
+        "Through this immersive interaction, the work allows non-specialist listeners to experience the creative emergence of sound itself, turning listening into a tangible act of co-creation between human, space, and machine."
+      ],
+      "presentations": [
+        "Synesthesia 2025"
+      ],
+      "credits": [
+        "Music and AI music system: Zhitao Lin",
+        "Art installation: Winter Hart",
+        "Presented by: Synesthesia 2025",
+        "In collaboration with: Maryland Institute College of Art (MICA) and the Peabody Institute of Johns Hopkins University"
+      ],
+      "system": [
+        "Real-time AI generative music system",
+        "Spatial movement tracking",
+        "Interactive sonic field design",
+        "Two-zone musical environment"
+      ],
+      "photoCredit": [
+        "Images courtesy of Synesthesia 2025."
+      ]
+    },
+    {
+      "id": "bodhi",
+      "title": "Bodhi 菩提",
+      "year": "2024",
+      "form": "Orchestral work with AR visuals",
+      "medium": "Symphony orchestra, spectral orchestration, AR visual system",
+      "image": "assets/work-bodhi-film.jpg",
+      "description": [
+        "Bodhi is an orchestral work that explores spectral music inspired by Tibetan Buddhist chanting and ceremonial horns.",
+        "The piece integrates AR technology, expanding the concert experience into a multi-sensory field of sound, image, and ritual memory.",
+        "Visual elements are derived from Dunhuang's Thousand Buddha Caves murals, creating a layered fusion of orchestral sound and ancient iconography.",
+        "By bridging spiritual traditions with contemporary orchestral language, Bodhi expands the spatial and symbolic experience of concert music."
+      ],
+      "recognition": [
+        "Honorable Mention — 2024 DeLillo Composition Competition"
+      ],
+      "presentations": [
+        "Performed by the Peabody Symphony Orchestra",
+        "Conducted by Ryo Hasegawa"
+      ],
+      "credits": [
+        "Composed and AR-designed by: Zhitao Lin",
+        "Conductor: Ryo Hasegawa",
+        "Performed by: Peabody Symphony Orchestra"
+      ],
+      "system": [
+        "Spectral orchestration",
+        "Tibetan Buddhist chanting and ceremonial horn references",
+        "AR immersive visual system",
+        "Real-time conductor-mapped visuals",
+        "Dunhuang Thousand Buddha Caves visual materials"
+      ]
+    },
+    {
+      "id": "dvesha",
+      "title": "Dvesha",
+      "year": "2023",
+      "form": "Live audiovisual performance",
+      "medium": "Solo violin, AI sound system, projection mapping",
+      "image": "assets/work-dvesha-film.jpg",
+      "description": [
+        "Dvesha is a hybrid performance piece for solo violin and AI-generated audiovisual improvisation.",
+        "The work explores the interplay between organic violin performance and AI-generated sonic environments, transforming the live moment into a constantly evolving audiovisual dialogue.",
+        "The system listens and responds in real time, using AI to generate complementary electronic textures, while projection mapping creates a reactive, dreamlike visual field.",
+        "The performance space becomes a surreal audiovisual landscape where digital and acoustic gestures mirror and transform one another, revealing the tension between human agency and machine spontaneity."
+      ],
+      "presentations": [
+        "Violin performance by Qiao Dan",
+        "Live electronics and improvisation by Zhitao Lin"
+      ],
+      "credits": [
+        "Composed and AI sound-visual interaction designed by: Zhitao Lin",
+        "Live electronics and improvisation: Zhitao Lin",
+        "Violin performance: Qiao Dan"
+      ],
+      "system": [
+        "Real-time audio analysis",
+        "AI-driven sonic response system",
+        "Architectural projection mapping",
+        "Custom gesture-reactive patches for sound and light"
       ]
     }
   ],
@@ -76,16 +194,57 @@
         {
           "title": "Bodhi 菩提",
           "year": "2024",
+          "format": "For orchestra + VR integration",
+          "facts": [
+            {
+              "label": "Award",
+              "value": "Honorable Mention — 2024 DeLillo Composition Competition"
+            },
+            {
+              "label": "Conductor / Performer",
+              "value": "Ryo Hasegawa · Peabody Symphony Orchestra"
+            },
+            {
+              "label": "Location",
+              "value": "Baltimore, USA"
+            }
+          ],
           "description": "Orchestral composition with VR integration. Honorable Mention, 2024 DeLillo Composition Competition. Conducted by Ryo Hasegawa and performed by the Peabody Symphony Orchestra at Miriam A. Friedberg Concert Hall, Baltimore, April 23, 2024."
         },
         {
           "title": "Ocean Mist at Twilight 青海波",
           "year": "2021",
+          "format": "For orchestra",
+          "facts": [
+            {
+              "label": "Award",
+              "value": "Winner — 2022 Macht Orchestral Composition Prize"
+            },
+            {
+              "label": "Conductor / Performer",
+              "value": "Hae Lee · Peabody Symphony Orchestra"
+            },
+            {
+              "label": "Location",
+              "value": "Baltimore, USA"
+            }
+          ],
           "description": "Winner, 2022 Macht Orchestral Composition Prize. Conducted by Hae Lee and performed by the Peabody Symphony Orchestra at Miriam A. Friedberg Concert Hall, Baltimore, October 20, 2021."
         },
         {
           "title": "Whisper of Buddha",
           "year": "2019",
+          "format": "For orchestra",
+          "facts": [
+            {
+              "label": "Conductor / Performer",
+              "value": "David Milnes · UC Berkeley Symphony Orchestra"
+            },
+            {
+              "label": "Location",
+              "value": "Berkeley, USA"
+            }
+          ],
           "description": "Conducted by David Milnes and performed by the UC Berkeley Symphony Orchestra at Hertz Hall, Berkeley, April 11, 2019."
         }
       ]
@@ -96,11 +255,37 @@
         {
           "title": "Pulsing",
           "year": "2023",
+          "format": "For mixed ensemble",
+          "facts": [
+            {
+              "label": "Conductor / Performer",
+              "value": "Juliano Aniceto · Old Bay New Music Ensemble"
+            },
+            {
+              "label": "Location",
+              "value": "Baltimore, USA"
+            }
+          ],
           "description": "Conducted by Juliano Aniceto and performed by the Old Bay New Music Ensemble at Joe Byrd Hall, Baltimore, April 23, 2023."
         },
         {
           "title": "The Entropy of Dreams 梦的熵界",
           "year": "2020",
+          "format": "For mixed ensemble",
+          "facts": [
+            {
+              "label": "Performer",
+              "value": "Omnibus Ensemble"
+            },
+            {
+              "label": "Recording",
+              "value": "Recorded in Tashkent"
+            },
+            {
+              "label": "Location",
+              "value": "Tashkent, Uzbekistan"
+            }
+          ],
           "description": "Performed by the Omnibus Ensemble. Recorded in Tashkent, December 12, 2020."
         }
       ]
@@ -111,11 +296,33 @@
         {
           "title": "Zhao Hun 招魂",
           "year": "2022",
+          "format": "For string quartet",
+          "facts": [
+            {
+              "label": "Performer",
+              "value": "Parker Quartet"
+            },
+            {
+              "label": "Location",
+              "value": "Baltimore, USA"
+            }
+          ],
           "description": "Performed by the Parker Quartet at Leith Symington Griswold Hall, Baltimore, September 14, 2022."
         },
         {
           "title": "Amorphous",
           "year": "2021",
+          "format": "For string quartet",
+          "facts": [
+            {
+              "label": "Performer",
+              "value": "Mivos Quartet"
+            },
+            {
+              "label": "Location",
+              "value": "New York, USA"
+            }
+          ],
           "description": "Performed by the Mivos Quartet in New York, March 12, 2021."
         }
       ]
@@ -126,11 +333,33 @@
         {
           "title": "Nostos",
           "year": "2024",
+          "format": "For electronics",
+          "facts": [
+            {
+              "label": "Performer",
+              "value": "Zhitao Lin · Menghan Jiang"
+            },
+            {
+              "label": "Location",
+              "value": "Baltimore, USA"
+            }
+          ],
           "description": "Performed by Zhitao Lin and Menghan Jiang on electronics at Cohen-Davison Theatre, Baltimore, March 29, 2024."
         },
         {
           "title": "Dvesha",
           "year": "2023",
+          "format": "For violin + AI-responsive electronics",
+          "facts": [
+            {
+              "label": "Performer",
+              "value": "Qiao Dan · Zhitao Lin"
+            },
+            {
+              "label": "Location",
+              "value": "Baltimore, USA"
+            }
+          ],
           "description": "Violin and AI-responsive electronics. Performed by Qiao Dan and Zhitao Lin at Leith Symington Griswold Hall, Baltimore, October 29, 2023."
         }
       ]
@@ -141,26 +370,81 @@
         {
           "title": "Metallic Birds",
           "year": "2023",
+          "format": "For solo trumpet",
+          "facts": [
+            {
+              "label": "Performer",
+              "value": "Marco Blaauw"
+            },
+            {
+              "label": "Location",
+              "value": "Baltimore, USA"
+            }
+          ],
           "description": "Performed by Marco Blaauw at Cohen-Davison Theatre, Baltimore, April 11, 2023."
         },
         {
           "title": "Banshee",
           "year": "2019",
+          "format": "For electric guitar",
+          "facts": [
+            {
+              "label": "Performer",
+              "value": "Zhitao Lin"
+            },
+            {
+              "label": "Location",
+              "value": "San Francisco, USA"
+            }
+          ],
           "description": "Performed by Zhitao Lin on electric guitar in San Francisco, October 10, 2019."
         },
         {
           "title": "Autumn Garden",
           "year": "2019",
+          "format": "For duo",
+          "facts": [
+            {
+              "label": "Performer",
+              "value": "Loren Mach · Richard Worn"
+            },
+            {
+              "label": "Location",
+              "value": "Berkeley, USA"
+            }
+          ],
           "description": "Performed by Loren Mach and Richard Worn in Berkeley, May 3, 2019."
         },
         {
           "title": "Tai Ji",
           "year": "2019",
+          "format": "For solo oboe",
+          "facts": [
+            {
+              "label": "Performer",
+              "value": "Kyle Bruckmann"
+            },
+            {
+              "label": "Location",
+              "value": "Berkeley, USA"
+            }
+          ],
           "description": "Performed by Kyle Bruckmann on oboe in Berkeley, February 28, 2019."
         },
         {
           "title": "Li Qi 戾气",
           "year": "2018",
+          "format": "For duo",
+          "facts": [
+            {
+              "label": "Performer",
+              "value": "Jessie Nucho · Joanne de Mars"
+            },
+            {
+              "label": "Location",
+              "value": "Berkeley, USA"
+            }
+          ],
           "description": "Performed by Jessie Nucho and Joanne de Mars in Berkeley, November 2018."
         }
       ]
@@ -171,6 +455,21 @@
         {
           "title": "Burying Petals 葬花",
           "year": "2022",
+          "format": "For voice + piano",
+          "facts": [
+            {
+              "label": "Libretto",
+              "value": "Cao Xueqin"
+            },
+            {
+              "label": "Performer",
+              "value": "Caroline Lacy · Hsiao-Ying Lin"
+            },
+            {
+              "label": "Location",
+              "value": "Baltimore, USA"
+            }
+          ],
           "description": "Libretto by Cao Xueqin. Performed by Caroline Lacy and Hsiao-Ying Lin at Hilda and Douglass Goodwin Hall, Baltimore, April 29, 2022."
         }
       ]
@@ -187,7 +486,7 @@
     },
     {
       "name": "Georg Friedrich Haas",
-      "date": "April 14, 2022"
+      "date": "April 14, 2022 / September 30, 2020"
     },
     {
       "name": "Oscar Bettison",

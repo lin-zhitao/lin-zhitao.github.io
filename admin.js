@@ -75,7 +75,7 @@ document.querySelector("#projectForm").addEventListener("submit", (event) => {
     title: data.get("title"),
     year: data.get("year"),
     medium: data.get("medium"),
-    description: data.get("description"),
+    description: data.get("description").split(/\n{2,}/).map((line) => line.trim()).filter(Boolean),
     presentations: data.get("presentations").split("\n").map((line) => line.trim()).filter(Boolean)
   });
   syncEditor();

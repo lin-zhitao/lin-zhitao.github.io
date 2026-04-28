@@ -1,0 +1,14 @@
+.DS_Store
+.script.js.swp
+snapshots/
+snapshots/.DS_Store
+assets/work-*.jpg
+assets/work-liminal.png
+!assets/work-*-film.jpg
+assets/Mian/.DS_Store
+assets/Mian/*.HEIC
+assets/Mian/*.JPEG
+assets/Mian/IMG_*.jpg
+assets/Mian/*-source.jpg
+assets/Mian/Mian.jpg
+!assets/Mian/mian-*-memory-film.jpg
