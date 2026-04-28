@@ -1,0 +1,61 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Admin - Zhitao Lin</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header class="site-header">
+    <nav class="nav" aria-label="Admin navigation">
+      <a href="index.html">Home</a>
+      <a href="about.html">About</a>
+      <a href="works.html">Works</a>
+      <a href="compositions.html">Compositions</a>
+    </nav>
+  </header>
+
+  <main class="admin-page">
+    <section class="admin-head">
+      <h1>Content Admin</h1>
+      <p>Edit the site content data. Save to <code>content.json</code> or export a replacement file.</p>
+      <div class="admin-actions">
+        <button id="openFile">Open content.json</button>
+        <button id="saveFile">Save</button>
+        <button id="downloadFile">Export JSON</button>
+        <button id="resetFile">Reload Site Data</button>
+      </div>
+      <p id="adminStatus" class="admin-status"></p>
+    </section>
+
+    <section class="admin-grid">
+      <form id="projectForm" class="admin-panel">
+        <h2>Add Project</h2>
+        <label>Title<input name="title" required></label>
+        <label>Year<input name="year"></label>
+        <label>Medium<input name="medium"></label>
+        <label>Description<textarea name="description" rows="4"></textarea></label>
+        <label>Presentations, one per line<textarea name="presentations" rows="5"></textarea></label>
+        <button type="submit">Add Project</button>
+      </form>
+
+      <form id="compositionForm" class="admin-panel">
+        <h2>Add Composition</h2>
+        <label>Category<input name="category" placeholder="Orchestral, Electroacoustic, Vocal..." required></label>
+        <label>Title<input name="title" required></label>
+        <label>Year<input name="year"></label>
+        <label>Description<textarea name="description" rows="5"></textarea></label>
+        <button type="submit">Add Composition</button>
+      </form>
+    </section>
+
+    <section class="admin-panel">
+      <h2>Content JSON</h2>
+      <textarea id="jsonEditor" class="json-editor" spellcheck="false"></textarea>
+    </section>
+  </main>
+
+  <script src="admin.js"></script>
+</body>
+</html>

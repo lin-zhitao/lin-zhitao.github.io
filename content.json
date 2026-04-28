@@ -1,0 +1,197 @@
+{
+  "about": {
+    "name": "Zhitao Lin 林之涛",
+    "roles": "Composer • New Media Artist • Sound Engineer",
+    "biography": [
+      "Zhitao Lin is a composer and new media artist working at the intersection of sound, computation, and cultural memory. His practice combines algorithmic composition, embodied interaction, and audiovisual system design to explore how emerging technologies may open new forms of artistic creation and live performance.",
+      "Rather than approaching art as direct expression, he investigates how body, sound, and image are translated and reorganized through technological systems, and how these processes reshape perception, authorship, and aesthetic form.",
+      "Drawing on Chinese aesthetic thought, spectral thinking, and experimental performance, his work has been presented internationally, including at the International Computer Music Conference, SIGGRAPH Asia Real-Time Live, and the IRCAM Forum Workshop. He has been commissioned by the John F. Kennedy Center for the Performing Arts for a new project currently in development.",
+      "Lin is a Doctor of Musical Arts candidate in composition at the Peabody Institute of the Johns Hopkins University."
+    ],
+    "education": [
+      {
+        "title": "Doctor of Musical Arts Degree",
+        "meta": "Peabody Institute, Johns Hopkins University · Baltimore, MD"
+      },
+      {
+        "title": "Master of Music Degree",
+        "meta": "Peabody Institute, Johns Hopkins University · Baltimore, MD"
+      },
+      {
+        "title": "Bachelor of Arts Degree",
+        "meta": "University of California, Berkeley · Berkeley, CA"
+      }
+    ],
+    "contact": {
+      "email": "hello@example.com",
+      "youtube": "YouTube",
+      "facebook": "Facebook",
+      "instagram": "Instagram"
+    }
+  },
+  "research": {
+    "headline": "Composer and new media artist working through sound, computation, and cultural memory.",
+    "paragraphs": [
+      "My current research explores algorithmic composition, spectral listening, and the trace of gesture through live media systems.",
+      "I investigate how sonic memory becomes interface, how performance becomes archive, and how computational processes can embody cultural thought."
+    ],
+    "tags": [
+      "Algorithmic Composition",
+      "Embodied Interaction",
+      "Audiovisual Systems"
+    ],
+    "notes": [
+      {
+        "title": "Sound As System",
+        "body": "Composition as a set of relations between spectral material, computation, and performative decision."
+      },
+      {
+        "title": "Body As Interface",
+        "body": "Gesture is treated as musical thought in motion, translated into sound and image through live systems."
+      },
+      {
+        "title": "Memory As Form",
+        "body": "Cultural memory appears as resonance, trace, and transformation rather than direct representation."
+      }
+    ]
+  },
+  "projects": [
+    {
+      "title": "Liminal",
+      "year": "2025",
+      "medium": "AI-driven audiovisual installation",
+      "description": "Gesture/body-driven AI system fusing Chinese aesthetics with real-time sound and image generation.",
+      "presentations": [
+        "April 2025 — 2025 Digi Muse Music and Technology Festival, Shanghai Concert Hall, Shanghai",
+        "June 2025 — International Computer Music Conference (ICMC), Emerson College Media Art Gallery, Boston",
+        "December 2025 — SIGGRAPH Asia Real-Time Live, Hong Kong Convention and Exhibition Centre (HKCEC), Hong Kong",
+        "March 2026 — IRCAM Forum Workshops, IRCAM & Centre des Arts (CDA), Paris / Enghien-les-Bains"
+      ]
+    }
+  ],
+  "compositions": [
+    {
+      "category": "Orchestral",
+      "items": [
+        {
+          "title": "Bodhi 菩提",
+          "year": "2024",
+          "description": "Orchestral composition with VR integration. Honorable Mention, 2024 DeLillo Composition Competition. Conducted by Ryo Hasegawa and performed by the Peabody Symphony Orchestra at Miriam A. Friedberg Concert Hall, Baltimore, April 23, 2024."
+        },
+        {
+          "title": "Ocean Mist at Twilight 青海波",
+          "year": "2021",
+          "description": "Winner, 2022 Macht Orchestral Composition Prize. Conducted by Hae Lee and performed by the Peabody Symphony Orchestra at Miriam A. Friedberg Concert Hall, Baltimore, October 20, 2021."
+        },
+        {
+          "title": "Whisper of Buddha",
+          "year": "2019",
+          "description": "Conducted by David Milnes and performed by the UC Berkeley Symphony Orchestra at Hertz Hall, Berkeley, April 11, 2019."
+        }
+      ]
+    },
+    {
+      "category": "Mixed Ensemble",
+      "items": [
+        {
+          "title": "Pulsing",
+          "year": "2023",
+          "description": "Conducted by Juliano Aniceto and performed by the Old Bay New Music Ensemble at Joe Byrd Hall, Baltimore, April 23, 2023."
+        },
+        {
+          "title": "The Entropy of Dreams 梦的熵界",
+          "year": "2020",
+          "description": "Performed by the Omnibus Ensemble. Recorded in Tashkent, December 12, 2020."
+        }
+      ]
+    },
+    {
+      "category": "String Ensemble",
+      "items": [
+        {
+          "title": "Zhao Hun 招魂",
+          "year": "2022",
+          "description": "Performed by the Parker Quartet at Leith Symington Griswold Hall, Baltimore, September 14, 2022."
+        },
+        {
+          "title": "Amorphous",
+          "year": "2021",
+          "description": "Performed by the Mivos Quartet in New York, March 12, 2021."
+        }
+      ]
+    },
+    {
+      "category": "Electroacoustic",
+      "items": [
+        {
+          "title": "Nostos",
+          "year": "2024",
+          "description": "Performed by Zhitao Lin and Menghan Jiang on electronics at Cohen-Davison Theatre, Baltimore, March 29, 2024."
+        },
+        {
+          "title": "Dvesha",
+          "year": "2023",
+          "description": "Violin and AI-responsive electronics. Performed by Qiao Dan and Zhitao Lin at Leith Symington Griswold Hall, Baltimore, October 29, 2023."
+        }
+      ]
+    },
+    {
+      "category": "Solo and Duo",
+      "items": [
+        {
+          "title": "Metallic Birds",
+          "year": "2023",
+          "description": "Performed by Marco Blaauw at Cohen-Davison Theatre, Baltimore, April 11, 2023."
+        },
+        {
+          "title": "Banshee",
+          "year": "2019",
+          "description": "Performed by Zhitao Lin on electric guitar in San Francisco, October 10, 2019."
+        },
+        {
+          "title": "Autumn Garden",
+          "year": "2019",
+          "description": "Performed by Loren Mach and Richard Worn in Berkeley, May 3, 2019."
+        },
+        {
+          "title": "Tai Ji",
+          "year": "2019",
+          "description": "Performed by Kyle Bruckmann on oboe in Berkeley, February 28, 2019."
+        },
+        {
+          "title": "Li Qi 戾气",
+          "year": "2018",
+          "description": "Performed by Jessie Nucho and Joanne de Mars in Berkeley, November 2018."
+        }
+      ]
+    },
+    {
+      "category": "Vocal",
+      "items": [
+        {
+          "title": "Burying Petals 葬花",
+          "year": "2022",
+          "description": "Libretto by Cao Xueqin. Performed by Caroline Lacy and Hsiao-Ying Lin at Hilda and Douglass Goodwin Hall, Baltimore, April 29, 2022."
+        }
+      ]
+    }
+  ],
+  "masterclasses": [
+    {
+      "name": "Rodrigo Constanzo",
+      "date": "April 5, 2024"
+    },
+    {
+      "name": "Eric Wubbels",
+      "date": "November 9, 2023"
+    },
+    {
+      "name": "Georg Friedrich Haas",
+      "date": "April 14, 2022"
+    },
+    {
+      "name": "Oscar Bettison",
+      "date": "February 25, 2021"
+    }
+  ]
+}

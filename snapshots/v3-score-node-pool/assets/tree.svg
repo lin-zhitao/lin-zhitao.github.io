@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 900" role="img" aria-label="Ink tree">
+  <g fill="none" stroke="#4a4944" stroke-linecap="round" stroke-linejoin="round" opacity=".74">
+    <path d="M350 835 Q330 695 322 565 Q312 415 330 240 Q340 150 360 92" stroke-width="7"/>
+    <path d="M327 580 Q260 498 180 430 Q108 350 78 274" stroke-width="4"/>
+    <path d="M312 470 Q392 412 478 348 Q570 260 632 205" stroke-width="4"/>
+    <path d="M334 665 Q275 620 190 584 Q92 548 42 500" stroke-width="3"/>
+    <path d="M338 690 Q412 660 506 618 Q640 558 688 505" stroke-width="3"/>
+    <path d="M318 410 Q282 344 238 282 Q182 220 150 170" stroke-width="3"/>
+    <path d="M325 365 Q365 310 435 238 Q500 158 532 96" stroke-width="3"/>
+  </g>
+  <g fill="none" stroke="#4a4944" opacity=".45">
+    <circle cx="245" cy="430" r="3"/>
+    <circle cx="195" cy="365" r="4"/>
+    <circle cx="138" cy="310" r="3"/>
+    <circle cx="450" cy="375" r="4"/>
+    <circle cx="520" cy="295" r="3"/>
+    <circle cx="175" cy="525" r="4"/>
+    <circle cx="540" cy="530" r="3"/>
+    <circle cx="395" cy="255" r="4"/>
+  </g>
+</svg>
