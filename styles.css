@@ -207,8 +207,19 @@ a {
 }
 
 .footer strong,
-.footer span {
+.footer span,
+.footer a {
   display: block;
+}
+
+.footer a {
+  color: inherit;
+  opacity: 0.78;
+}
+
+.footer a:hover,
+.footer a:focus-visible {
+  opacity: 1;
 }
 
 .footer strong {
